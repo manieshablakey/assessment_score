@@ -1,1 +1,1 @@
-# assessment_score
+Python app to build a report card. Takes in user input for school name, class name and student initials. Also takes in user input for English, Maths and Science scores. Generates a report card based on input. 
